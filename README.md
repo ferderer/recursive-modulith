@@ -211,7 +211,7 @@ void verifyModulithStructure() {
 Like Russian nesting dolls:
 
 - 🪆 Every doll has the **same shape** → every level follows `config/` + `common/` + `{domain}/`
-- 🪆 Dolls are **nested inside each other** → App → [Domain] → [Subdomain] → [Bounded Context] → Use Case → Action
+- 🪆 Dolls are **nested inside each other** → App → [Domain] → [Subdomain] → Bounded Context → Use Case → Action
 - 🪆 Each doll is **self-contained** → every BC is extractable to a microservice
 - 🪆 From outside, you only see the **outer shell** → public API
 
