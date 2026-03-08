@@ -1,4 +1,5 @@
 # Recursive-Modulith
+*– Architecture is perfect when nothing can be taken away.*
 
 **A pragmatic, recursive package structure for Spring Boot modular monoliths.**
 
