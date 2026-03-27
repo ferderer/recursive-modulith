@@ -1,0 +1,28 @@
+# Miscellaneous
+*.java.hsp
+*.sonarj
+*.sw*
+.DS_Store
+
+# Maven artifacts
+/target/
+
+# Eclipse artifacts, including WTP generated manifests
+bin
+.classpath
+.project
+.settings
+.springBeans
+
+# IntelliJ IDEA artifacts and output dirs
+*.iml
+*.ipr
+*.iws
+.idea/*
+!.idea/icon.svg
+out
+test-output
+atlassian-ide-plugin.xml
+
+# VS Code
+.vscode/
